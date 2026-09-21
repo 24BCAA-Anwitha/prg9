@@ -30,7 +30,7 @@ root.render(
     <div className="row">
 
       <StudentCard
-        image="image1.jpg.jfif"
+        image="image1.jpg"
         name="Mathew"
         regno="101"
         department="BCA"
@@ -38,7 +38,7 @@ root.render(
       />
 
       <StudentCard
-        image="image2.jpg.jfif"
+        image="image2.jpg"
         name="Ron"
         regno="102"
         department="B.Sc CS"
@@ -46,7 +46,7 @@ root.render(
       />
 
       <StudentCard
-        image="image3.jpg.jfif"
+        image="image3.jpg"
         name="Jack"
         regno="103"
         department="B.Com"
